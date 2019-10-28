@@ -1,7 +1,7 @@
 #labspy02
 FLOWCHART PROGRAM SEDERHANA MENENTUKAN BILANGAN TERBESAR DARI PERBANDINGAN 3 BUAH BILANGAN
-
 [FlowChart.pdf](https://github.com/Budisusmiati/labspy02/files/3776717/FlowChart.pdf)
+![Screenshot (77)](https://user-images.githubusercontent.com/57002773/67645532-e6247580-f95b-11e9-9dfd-581f56a7d563.png)
 
 PENJELASAN PROGRAM
 
