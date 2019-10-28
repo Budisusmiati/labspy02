@@ -1,7 +1,8 @@
 #labspy02
 FLOWCHART PROGRAM SEDERHANA MENENTUKAN BILANGAN TERBESAR DARI PERBANDINGAN 3 BUAH BILANGAN
 [FlowChart.pdf](https://github.com/Budisusmiati/labspy02/files/3776717/FlowChart.pdf)
-![Screenshot (77)](https://user-images.githubusercontent.com/57002773/67645532-e6247580-f95b-11e9-9dfd-581f56a7d563.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/57002773/67645640-7a8ed800-f95c-11e9-9b57-0c1a7c6879d8.png)
+
 
 PENJELASAN PROGRAM
 
@@ -14,4 +15,4 @@ PENJELASAN PROGRAM
 7. Tetapi apabila dalam kedua perbandingan tersebut menghasilkan nilai (false), maka yang akan tercetak adalah nilai ketiga(z).
 8. Nilai yang tercetak merupakan nilai terbesar dari 3 buah bilangan tersebut. Berikut hasil perbandingannya:
 
-![Screenshot (76)](https://user-images.githubusercontent.com/57002773/67645355-db1d1580-f95a-11e9-9d54-8e7f37bbebc8.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/57002773/67645636-72369d00-f95c-11e9-8710-39fde0beaf15.png)
