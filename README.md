@@ -13,3 +13,5 @@ PENJELASAN PROGRAM
 6. Bandingkan kembali bilangan kedua(y) dengan bilangan pertama(x) dan bilangan ketiga(z), apabila menghasilkan nilai (true), maka akan tercetak nilai kedua(y).
 7. Tetapi apabila dalam kedua perbandingan tersebut menghasilkan nilai (false), maka yang akan tercetak adalah nilai ketiga(z).
 8. Nilai yang tercetak merupakan nilai terbesar dari 3 buah bilangan tersebut. Berikut hasil perbandingannya:
+
+![Screenshot (76)](https://user-images.githubusercontent.com/57002773/67645355-db1d1580-f95a-11e9-9d54-8e7f37bbebc8.png)
