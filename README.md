@@ -1,6 +1,8 @@
 #labspy02
 FLOWCHART PROGRAM SEDERHANA MENENTUKAN BILANGAN TERBESAR DARI PERBANDINGAN 3 BUAH BILANGAN
 
+[FlowChart.pdf](https://github.com/Budisusmiati/labspy02/files/3776717/FlowChart.pdf)
+
 PENJELASAN PROGRAM
 
 1. Print "program bilangan terbesar dari 3 buah bilangan yang diinputkan".
